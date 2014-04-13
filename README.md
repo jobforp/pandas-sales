@@ -11,7 +11,7 @@ Most pandas examples are for scientific or numerical calculations. This is a qui
 
 I feel that pandas in combination with sql and a bit of excel and dc.js has the potential to replace expensive tools such as Business Objects and Tableau.
 
-If you are running windows/mac I highly recommend the anaconda distribution located  here <http://continuum.io/downloads> to get started.  As well there are several other good tutorials on the web that are not from a business perspect
+If you are running windows/mac I highly recommend the anaconda distribution located  here <http://continuum.io/downloads> to get started.  As well there are several other good tutorials on the web that are not from a business perspective.
 
 * <http://byumcl.bitbucket.org/bootcamp2013/labs/pandas.html>
 * <http://pandas.pydata.org/pandas-docs/stable/tutorials.html>
