@@ -11,6 +11,12 @@ Most pandas examples are for scientific or numerical calculations. This is a qui
 
 I feel that pandas in combination with sql and a bit of excel and dc.js has the potential to replace expensive tools such as Business Objects and Tableau.
 
+With that please have a look and learn from or improve these. Download and play!
+
++ [Panda Sales spreadsheet](http://nbviewer.ipython.org/github/jobforp/pandas-sales/blob/master/pandas.sales.ipynb)
++ [Panda Chinook](http://nbviewer.ipython.org/github/jobforp/pandas-sales/blob/master/pandas2.chinook.ipynb) 
+
+
 If you are running windows/mac I highly recommend the anaconda distribution located  here <http://continuum.io/downloads> to get started.  As well there are several other good tutorials on the web.
 
 * <http://byumcl.bitbucket.org/bootcamp2013/labs/pandas.html>
@@ -22,9 +28,4 @@ Other tools:
 
 * <https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M&usp=sharing>
 
-
-With that please have a look and learn from or improve these. Download and play!
-
-[Panda Sales spreadsheet](http://nbviewer.ipython.org/github/jobforp/pandas-sales/blob/master/pandas.sales.ipynb)
-[Panda Chinook](http://nbviewer.ipython.org/github/jobforp/pandas-sales/blob/master/pandas2.chinook.ipynb) 
 
