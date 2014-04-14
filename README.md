@@ -23,3 +23,8 @@ Other tools:
 * <https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M&usp=sharing>
 
 
+With that please have a look and learn from or improve these. Download and play!
+
+[Panda Sales spreadsheet](http://nbviewer.ipython.org/github/jobforp/pandas-sales/blob/master/pandas.sales.ipynb)
+[Panda Chinook](http://nbviewer.ipython.org/github/jobforp/pandas-sales/blob/master/pandas2.chinook.ipynb) 
+
